@@ -19,8 +19,8 @@ This five days workshop provides an introduction to real-time audio Digital Sign
 
 ### Tuesday: Filtering
 
-* Basic FIR filters (i.e., one zero, comb, butter-worth, peak equalizers, etc.)
-* Basic IIR filters (i.e., one pole, feedback comb, biquads, resonant filters, etc.)
+* Basic FIR filters (i.e., one zero, comb, peak equalizers, etc.)
+* Basic IIR filters (i.e., one pole, butter-worth, feedback comb, biquads, resonant filters, etc.)
 
 ### Wednesday: Making Actual Things
 
