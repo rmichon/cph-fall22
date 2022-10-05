@@ -45,7 +45,7 @@ This five days workshop provides an introduction to real-time audio Digital Sign
 ### Cochlear Implant Simulator
 
 Build a cochlear implant simulator that captures in realtime a sound signal and filters through a number of bandpass filters.
-The number and location of bandpass filters can be chosen from this paper: https://asa.scitation.org/doi/pdf/10.1121/1.419603
+The number and location of bandpass filters can be chosen from this paper: [https://asa.scitation.org/doi/pdf/10.1121/1.419603](https://www.researchgate.net/publication/13880019_Speech_intelligibility_as_a_function_of_the_number_of_channels_of_stimulation_for_signal_processors_using_sine-wave_and_noise-band_outputs)
 Where in Table I you can find the frequencies and in Table II you can find the bandwidth.
 Choose one specific number of channels, and if you have time experiment and test the differences with a different amount of channels.
 
