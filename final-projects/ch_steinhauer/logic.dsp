@@ -36,7 +36,7 @@ lowpass(o,f) = fi.lowpass(o,f);
 // bandpass filter
 bandpass(f,bw) = fi.bandpass(Nh,fl,fu)
 with {
-    Nh = 6;
+    Nh = 3;
     fl = f - (bw/2);
     fu = f + (bw/2);
 };
@@ -54,6 +54,7 @@ with {
     index = (n % ba.count(values)) + 1;
 };
 
+// run stuff in parallel
 run_par(s,N) = par(i,N,run(i))
 with {
     run(j) = s(f,bw)
